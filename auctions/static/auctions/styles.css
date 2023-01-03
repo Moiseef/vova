@@ -1,0 +1,52 @@
+.errorlist > li {
+    color: red;
+}
+
+.listing-image {
+    max-height: 10rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.navbar-collapse {
+transition: 0.9s !important;
+}
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100000;
+}
+
+p , a{
+    font: 15px Arial, sans-serif;
+}
+    h1, h2, h3, h4, h5{
+        font: 25px Hiragino Maru Gothic ProN;
+    }
+.mart-10{
+    margin-top: 10%;
+}
+/* delit hr*/    
+hr {
+    display: none;
+    }
+.card {
+    border: none;
+    }    
+    
+.img-fluid {
+    border: 1px solid black;
+}   
+.listing-image {
+    border: none !important;
+    } 
+.mylogo {
+width: 55% !important;
+    
+}
+.navbar-brand {
+width: 200px;
+}
+.mt-10 {
+    margin-top: 10%;
+    }
